@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "326348068294",
+    "firebase_url": "https://geobuzz-9040c.firebaseio.com",
+    "project_id": "geobuzz-9040c",
+    "storage_bucket": "geobuzz-9040c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:326348068294:android:0f3b42f0ec1e3c1c",
+        "android_client_info": {
+          "package_name": "pdtech.geobuzz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "326348068294-12aptkdobvreecngkbfp60q2qm5libac.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "pdtech.geobuzz",
+            "certificate_hash": "4457E5E8026D73027FAE6EC68858A7185A75A853"
+          }
+        },
+        {
+          "client_id": "326348068294-itnhcjibgt23m2a725hcnd8l1tamjedh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVtURKvhbebtudEEDxp0vNMsj4wZAkQVI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "326348068294-itnhcjibgt23m2a725hcnd8l1tamjedh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

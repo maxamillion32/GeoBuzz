@@ -1,0 +1,516 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="V:\Projects\Android\GeoBuzz\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="dd51b31890731591729f046d7a09c4fe4e483ed1">
+        <dex dex="V:\Projects\Android\GeoBuzz\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-plus-9.4.0_df8e3684fa971f35097168a4d7b16728943b12d7\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\parth\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-applinks\1.4.0\8ad21bf21784dacce5f2043afb97218cc377e835\bolts-applinks-1.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8ad21bf21784dacce5f2043afb97218cc377e835">
+        <dex dex="V:\Projects\Android\GeoBuzz\app\build\intermediates\transforms\dex\debug\folders\1000\10\bolts-applinks-1.4.0_94685ccc9f169faa3c89b5fce030aa65aec83cd4\classes.dex" />
+    </item>
+    <item
+        jar="V:\Projects\Android\GeoBuzz\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="V:\Projects\Android\GeoBuzz\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.0.0_f14cd7ca40bc0b44b23cfa6ac8240dd1c9a16371\classes.dex" />
+    </item>
+    <item
+        jar="V:\Projects\Android\GeoBuzz\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-contextmanager\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="72eacac37fc64e95d53abd2a041bf81a952d8615">
+        <dex dex="V:\Projects\Android\GeoBuzz\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-contextmanager-9.4.0_468ce9c795d8084edd76afb572c632c73871e8c9\classes.dex" />
+    </item>
+    <item
+        jar="V:\Projects\Android\GeoBuzz\app\build\intermediates\exploded-aar\com.mikepenz\materialize\0.9.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="0fe984aa10a4992e6762658da3fc87195c2330ca">
+        <dex dex="V:\Projects\Android\GeoBuzz\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.mikepenz-materialize-0.9.0_2887dad45c4101090f93515f1bfdea2e58b3ba02\classes.dex" />
+    </item>
+    <item
+        jar="V:\Projects\Android\GeoBuzz\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="d49118ba67a101c4895f0581f17142cba85b330b">
+        <dex dex="V:\Projects\Android\GeoBuzz\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-panorama-9.4.0_69ce9678a85499cd57d035e6f3fab49e19812f8a\classes.dex" />
+    </item>
+    <item
+        jar="V:\Projects\Android\GeoBuzz\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8197651ce1af4d89b47f4545cc720bc4f8611e7d">
+        <dex dex="V:\Projects\Android\GeoBuzz\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-fitness-9.4.0_5e5145e8bdea95c89b75cfe40ae363e1c65ddc55\classes.dex" />
+    </item>
+    <item
+        jar="V:\Projects\Android\GeoBuzz\app\build\intermediates\exploded-aar\com.firebaseui\firebase-ui\0.5.3\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="fbed8999711c2ea4a32aebfb9541e9873b5a83ca">
+        <dex dex="V:\Projects\Android\GeoBuzz\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.firebaseui-firebase-ui-0.5.3_6ea3cb32f6b1dbd1a9d327e7c1e1928a0af662ad\classes.dex" />
+    </item>
+    <item
+        jar="V:\Projects\Android\GeoBuzz\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="84bf369090a8f7e293817efbd6ccf31ada1be32b">
+        <dex dex="V:\Projects\Android\GeoBuzz\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-9.4.0_110f94ad8aa81ea23aa55ea913fdc94271e93c81\classes.dex" />
+    </item>
+    <item
+        jar="V:\Projects\Android\GeoBuzz\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-clearcut\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="dd763e0269f2854f5828ae62dd968b80bff6a0db">
+        <dex dex="V:\Projects\Android\GeoBuzz\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-clearcut-9.4.0_a8114a77352f2fd906a08eb20fc84cd551935b68\classes.dex" />
+    </item>
+    <item
+        jar="V:\Projects\Android\GeoBuzz\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="147edbec6bcea71fd675ecc63cae3319637ec2b4">
+        <dex dex="V:\Projects\Android\GeoBuzz\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-lite-9.4.0_cb9d4c32a1cd25d0c8a240e6ab6f1553b50556eb\classes.dex" />
+    </item>
+    <item
+        jar="V:\Projects\Android\GeoBuzz\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="461e4257888c25ec05abcd91e758fe7f4949230a">
+        <dex dex="V:\Projects\Android\GeoBuzz\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-nearby-9.4.0_654bb04068156136bae1848ca5d7184aa4d532a9\classes.dex" />
+    </item>
+    <item
+        jar="V:\Projects\Android\GeoBuzz\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="a432629397351d3ec7f27a23d258b229b81af08f">
+        <dex dex="V:\Projects\Android\GeoBuzz\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-9.4.0_37567e008f3869d3fe5f97de0cd0ef2fa9ed2a0b\classes.dex" />
+    </item>
+    <item
+        jar="V:\Projects\Android\GeoBuzz\app\build\intermediates\exploded-aar\com.google.firebase\firebase-crash\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="b9d48baf96c7e187991a9befa833bebd181960a9">
+        <dex dex="V:\Projects\Android\GeoBuzz\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-crash-9.4.0_f33d85b27d68a5591357d5a21c43e6409bcce474\classes.dex" />
+    </item>
+    <item
+        jar="V:\Projects\Android\GeoBuzz\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="3bd97cfefd783e9de1dd1c30574a6adb44b4409b">
+        <dex dex="V:\Projects\Android\GeoBuzz\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.0.0_8d60ba965806f82573f640d96f9867f39254cf98\classes.dex" />
+    </item>
+    <item
+        jar="V:\Projects\Android\GeoBuzz\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="a440fb3fec30ff925e9f601cc458fb6671834cb2">
+        <dex dex="V:\Projects\Android\GeoBuzz\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-impl-9.4.0_2a12eb26abf4d95d6421805c087f4dd25798cce3\classes.dex" />
+    </item>
+    <item
+        jar="V:\Projects\Android\GeoBuzz\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="894922f67adeaaef51f077a29e315da21a3382d3">
+        <dex dex="V:\Projects\Android\GeoBuzz\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-24.0.0_f23b957a67ed75276bac1e8b85e94023c01805b0\classes.dex" />
+    </item>
+    <item
+        jar="V:\Projects\Android\GeoBuzz\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\23.0.0\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="03d38bb042efe3e5ce27ba66b729a9523c36d8fe">
+        <dex dex="V:\Projects\Android\GeoBuzz\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.0.0_bbc9499b0297425d7e7236ec6c614ea9fe7626f8\classes.dex" />
+    </item>
+    <item
+        jar="V:\Projects\Android\GeoBuzz\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="59a16a4a42d25b2c243dd1e8aea87d06895b4a06">
+        <dex dex="V:\Projects\Android\GeoBuzz\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-iid-9.4.0_0338da6696d5e194d13ca9bbe1c64957dd3b45e6\classes.dex" />
+    </item>
+    <item
+        jar="V:\Projects\Android\GeoBuzz\app\build\intermediates\exploded-aar\com.firebaseui\firebase-ui-auth\0.5.3\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4d1eef77feb4f5eb598bc3eed8b55c93f04f08e5">
+        <dex dex="V:\Projects\Android\GeoBuzz\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.firebaseui-firebase-ui-auth-0.5.3_558c00fac1aa801b5d6caf44a123eefda95672da\classes.dex" />
+    </item>
+    <item
+        jar="V:\Projects\Android\GeoBuzz\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-common\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="34762013d39dbe6c656050589c44e8b61b9a2c5d">
+        <dex dex="V:\Projects\Android\GeoBuzz\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-common-9.4.0_1f656220c7db26d7aa6c3a16e11ae6196b145a10\classes.dex" />
+    </item>
+    <item
+        jar="V:\Projects\Android\GeoBuzz\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="V:\Projects\Android\GeoBuzz\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.0.0_536072322ece27398b261a202036622a7c4355fe\classes.dex" />
+    </item>
+    <item
+        jar="V:\Projects\Android\GeoBuzz\app\build\intermediates\exploded-aar\com.mikepenz\iconics-core\2.6.7\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8619dda0155e9bc36cd7652937e610742ccf1284">
+        <dex dex="V:\Projects\Android\GeoBuzz\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.mikepenz-iconics-core-2.6.7_c2ba41b394c703d12e609393d5e3432f756f6b82\classes.dex" />
+    </item>
+    <item
+        jar="V:\Projects\Android\GeoBuzz\app\build\intermediates\exploded-aar\com.android.support\customtabs\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="2d1eaa9e0b98f8fc4c2b989d9b30d4f1480648ac">
+        <dex dex="V:\Projects\Android\GeoBuzz\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-customtabs-23.4.0_eda43f838b29e2887ae1510dddbe96eede469e03\classes.dex" />
+    </item>
+    <item
+        jar="V:\Projects\Android\GeoBuzz\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="954697ee6ea7bdd596babf4f70e8b7a17ca7649e">
+        <dex dex="V:\Projects\Android\GeoBuzz\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wallet-9.4.0_b685f1f7eeeb5fdae7cfe495f93ef3e6ebb23e50\classes.dex" />
+    </item>
+    <item
+        jar="V:\Projects\Android\GeoBuzz\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gass\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="b15f898c9047f9d612a63000126b485dd024eaac">
+        <dex dex="V:\Projects\Android\GeoBuzz\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gass-9.4.0_1983dcb03410f995424e430a219edcac85bd7afe\classes.dex" />
+    </item>
+    <item
+        jar="V:\Projects\Android\GeoBuzz\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="0874286cc2fd88d54fdf130e9d5372730da6de97">
+        <dex dex="V:\Projects\Android\GeoBuzz\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.0.0_a931a951979707387e7e46209a7cae5fc95d7af3\classes.dex" />
+    </item>
+    <item
+        jar="V:\Projects\Android\GeoBuzz\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="618485fef3ebe12127f7622abbc9b5b39057b5c2">
+        <dex dex="V:\Projects\Android\GeoBuzz\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-9.4.0_9904b44b746f2aa3505c9343cf01521d0241e6a8\classes.dex" />
+    </item>
+    <item
+        jar="V:\Projects\Android\GeoBuzz\app\build\intermediates\exploded-aar\com.android.support\design\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="fc29308a7a8f6d4407b34634eb48fb8b817f9b23">
+        <dex dex="V:\Projects\Android\GeoBuzz\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-24.0.0_bb4e7d88ef15964782b6255600b2eef27548249f\classes.dex" />
+    </item>
+    <item
+        jar="V:\Projects\Android\GeoBuzz\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4b630471536351be7c3c3100735c75b7ad2cbd84">
+        <dex dex="V:\Projects\Android\GeoBuzz\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-9.4.0_eb6489499126fd2c4f3b1747fc1f963571dd4d73\classes.dex" />
+    </item>
+    <item
+        jar="V:\Projects\Android\GeoBuzz\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="e70f608219ed6b974644c333249ab2bb7b71de98">
+        <dex dex="V:\Projects\Android\GeoBuzz\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.0.0_467d1563580476650d56bf29829c6a1e4504918a\classes.dex" />
+    </item>
+    <item
+        jar="V:\Projects\Android\GeoBuzz\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="3dee4ce5844d39d843d503fb8fe04e51e5bfffac">
+        <dex dex="V:\Projects\Android\GeoBuzz\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-9.4.0_bcde79a5743cbb878730ee85236a49d52f6e4172\classes.dex" />
+    </item>
+    <item
+        jar="V:\Projects\Android\GeoBuzz\app\build\intermediates\exploded-aar\com.mikepenz\fastadapter\1.6.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="c2d9f644d6b72d3a3665d963b58cab64b7372770">
+        <dex dex="V:\Projects\Android\GeoBuzz\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.mikepenz-fastadapter-1.6.0_b9d06c37872cb155622f7702c0a3edfe22ecedee\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\parth\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="V:\Projects\Android\GeoBuzz\app\build\intermediates\transforms\dex\debug\folders\1000\10\bolts-tasks-1.4.0_95ff6cc308288627d5af673cfe1f389889e7a117\classes.dex" />
+    </item>
+    <item
+        jar="V:\Projects\Android\GeoBuzz\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="18b5697c65c4fe5b7381613b8b8ae9ac52e26fa7">
+        <dex dex="V:\Projects\Android\GeoBuzz\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-common-9.4.0_2c9adb129d03e7286a10e0360853fc925aa2be25\classes.dex" />
+    </item>
+    <item
+        jar="V:\Projects\Android\GeoBuzz\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ba47b210d36301e237ccfea860eaada04590f12a">
+        <dex dex="V:\Projects\Android\GeoBuzz\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-9.4.0_3657e71fda362bea1b9ced7e0ddae67fe65e798e\classes.dex" />
+    </item>
+    <item
+        jar="V:\Projects\Android\GeoBuzz\app\build\intermediates\exploded-aar\com.google.firebase\firebase-config\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="dab6944860c986980dcc6002a5ca2f127b587317">
+        <dex dex="V:\Projects\Android\GeoBuzz\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-config-9.4.0_d9ec9e157090320a1b4f3f41d98c0649a593b258\classes.dex" />
+    </item>
+    <item
+        jar="V:\Projects\Android\GeoBuzz\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="0e4d53465cc141bec58f18a894e4c4e80633fa32">
+        <dex dex="V:\Projects\Android\GeoBuzz\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-connection-9.4.0_1bbbb06ab151f553ea38b4be80dcc6d99aa5af3a\classes.dex" />
+    </item>
+    <item
+        jar="V:\Projects\Android\GeoBuzz\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ece40b09e9d4d488bc270cf6af5a9af73bc1cfa3">
+        <dex dex="V:\Projects\Android\GeoBuzz\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gcm-9.4.0_a0e97fc54edced018ffb485d510f1b35f829c544\classes.dex" />
+    </item>
+    <item
+        jar="V:\Projects\Android\GeoBuzz\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="c10df7344e31161852c20bb8143fc37319aa10ec">
+        <dex dex="V:\Projects\Android\GeoBuzz\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appindexing-9.4.0_7ee80646353c001d3edf1d38d763cb5bbadf9517\classes.dex" />
+    </item>
+    <item
+        jar="V:\Projects\Android\GeoBuzz\app\build\intermediates\exploded-aar\com.firebaseui\firebase-ui-database\0.5.3\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="d729037ff4a83220d1f706356ff0dbe4b85e0d73">
+        <dex dex="V:\Projects\Android\GeoBuzz\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.firebaseui-firebase-ui-database-0.5.3_706f740c032c4208801a9171f1236a3e376e79cc\classes.dex" />
+    </item>
+    <item
+        jar="V:\Projects\Android\GeoBuzz\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage-common\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="c8f5d56f8f8a287c95e02c542baade138a378048">
+        <dex dex="V:\Projects\Android\GeoBuzz\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-common-9.4.0_aef67b8d5a32b0f3e7e62341ec5dfbe00aa554dc\classes.dex" />
+    </item>
+    <item
+        jar="V:\Projects\Android\GeoBuzz\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4b6d9b70f93bbeb872d0948bc064ae3f3f2bcbac">
+        <dex dex="V:\Projects\Android\GeoBuzz\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-messaging-9.4.0_06a8bb19f13b46c7f7c470569c1d342afff9aa6d\classes.dex" />
+    </item>
+    <item
+        jar="V:\Projects\Android\GeoBuzz\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="3b7173b3df4c7029699919414400041f64519e34">
+        <dex dex="V:\Projects\Android\GeoBuzz\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-iid-9.4.0_d0927c488b762e513b8c5a3f7e463a8062309827\classes.dex" />
+    </item>
+    <item
+        jar="V:\Projects\Android\GeoBuzz\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-api\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="7ea53c4458b80e8ea71f7fd6831fa184c501377b">
+        <dex dex="V:\Projects\Android\GeoBuzz\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-api-9.4.0_7a2d65d7c5f3de12f37f73f67ea1a3d7a286f49a\classes.dex" />
+    </item>
+    <item
+        jar="V:\Projects\Android\GeoBuzz\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="b1acf13f1b7d8232af78a30833f9a966d1394c84">
+        <dex dex="V:\Projects\Android\GeoBuzz\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wearable-9.4.0_4c3b1ff2ccd3f1cc1d947b8c4f0c29510227b9db\classes.dex" />
+    </item>
+    <item
+        jar="V:\Projects\Android\GeoBuzz\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="0b060160e7daee343f5315b3da91b0ff2d7eed89">
+        <dex dex="V:\Projects\Android\GeoBuzz\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-location-9.4.0_14a77f10b9daac0906dfe20638f78d3d65ca1d10\classes.dex" />
+    </item>
+    <item
+        jar="V:\Projects\Android\GeoBuzz\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="7bc6ea2bcfd6de4b7085e0f3a01616c5c8e0e2ad">
+        <dex dex="V:\Projects\Android\GeoBuzz\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-safetynet-9.4.0_0d3504a98d4e1bc40d804b9923b0eabc88d3e5a8\classes.dex" />
+    </item>
+    <item
+        jar="V:\Projects\Android\GeoBuzz\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="0ad33eb600f3d80bdff5ce355c90d5533ade652a">
+        <dex dex="V:\Projects\Android\GeoBuzz\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-impl-9.4.0_5fe6ff05430ea8706e94f2ea2fdb6759af4dc146\classes.dex" />
+    </item>
+    <item
+        jar="V:\Projects\Android\GeoBuzz\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="88848548ab56d4fbf3d2d1b0c85bf1ff9b4c1f4b">
+        <dex dex="V:\Projects\Android\GeoBuzz\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-9.4.0_484b2466e82346d50b29cf7ef97d58ab82ed2722\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\parth\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.7.0\9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4\glide-3.7.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="V:\Projects\Android\GeoBuzz\app\build\intermediates\transforms\dex\debug\folders\1000\10\glide-3.7.0_ebd4640c21f9e1073715ca250867610d61c92c05\classes.dex" />
+    </item>
+    <item
+        jar="V:\Projects\Android\GeoBuzz\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="e6e2251f3d3abf4eecd6bf6919d41fc7af497852">
+        <dex dex="V:\Projects\Android\GeoBuzz\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-games-9.4.0_9810741b2654cec4af656025099aeec2e6cf6e60\classes.dex" />
+    </item>
+    <item
+        jar="V:\Projects\Android\GeoBuzz\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="5e04c0b3683ca45b343284d93e5594b5f9044551">
+        <dex dex="V:\Projects\Android\GeoBuzz\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-identity-9.4.0_174dc1904bd99071a3453db0206ea5acd565504a\classes.dex" />
+    </item>
+    <item
+        jar="V:\Projects\Android\GeoBuzz\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="d463d8eec1e6c1feef2cec6675ccb47e37c12ee1">
+        <dex dex="V:\Projects\Android\GeoBuzz\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-9.4.0_d2bee1519ef9a4ac4f714be45cedddde367ffd3c\classes.dex" />
+    </item>
+    <item
+        jar="V:\Projects\Android\GeoBuzz\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="e454c414a069241ee08444d187f2dd3a702596b5">
+        <dex dex="V:\Projects\Android\GeoBuzz\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-maps-9.4.0_293c387eeb26a2a893b1a9d917818b3b2d222233\classes.dex" />
+    </item>
+    <item
+        jar="V:\Projects\Android\GeoBuzz\app\build\intermediates\exploded-aar\com.mikepenz\materialdrawer\5.3.6\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="5e82cb0f9c9596047e7d47b7e044f46b5ac2accc">
+        <dex dex="V:\Projects\Android\GeoBuzz\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.mikepenz-materialdrawer-5.3.6_de9d8b358fd951ffedae0f044327769d738c16c1\classes.dex" />
+    </item>
+    <item
+        jar="V:\Projects\Android\GeoBuzz\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-module\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="6bc41d9d6fd12d2ef23c785a259011001f4a1a5b">
+        <dex dex="V:\Projects\Android\GeoBuzz\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-module-9.4.0_48725f9cd1302e440cc7e43fd01d686b44a4a8e3\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\parth\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\24.0.0\2943c74db6d4346ab8c6531adac91fa05c137c40\support-annotations-24.0.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="V:\Projects\Android\GeoBuzz\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.0.0_62ead2a8528fc6229f472686f2b4c9b1eb629b98\classes.dex" />
+    </item>
+    <item
+        jar="V:\Projects\Android\GeoBuzz\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast-framework\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="03829a2618892d438a1f59c6286699ca1f476e93">
+        <dex dex="V:\Projects\Android\GeoBuzz\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-framework-9.4.0_8e8e45e5ff73a343e3ac80cd62ee5f5c26040a9e\classes.dex" />
+    </item>
+    <item
+        jar="V:\Projects\Android\GeoBuzz\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="58c9f5ee817fdb8b658fd7455fadfb74119f7ee9">
+        <dex dex="V:\Projects\Android\GeoBuzz\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-base-9.4.0_a6e44a91c0ed3162373382d7eb4ca9ec22a2d963\classes.dex" />
+    </item>
+    <item
+        jar="V:\Projects\Android\GeoBuzz\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-places\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="e35002351f2d415093a9b564652d4b56be6a0593">
+        <dex dex="V:\Projects\Android\GeoBuzz\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-places-9.4.0_e4fef62a5d44ec3d6564392d08b81a0637af552f\classes.dex" />
+    </item>
+    <item
+        jar="V:\Projects\Android\GeoBuzz\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\23.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="d358b3dd49a7c67844622dcbc9cf4339e13952ce">
+        <dex dex="V:\Projects\Android\GeoBuzz\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-mediarouter-v7-23.0.0_527d8c11125fe9177a6a98abd9b17759be6f393c\classes.dex" />
+    </item>
+    <item
+        jar="V:\Projects\Android\GeoBuzz\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="d9ecde39b460470e655de6e47c05573d2d5a8bfb">
+        <dex dex="V:\Projects\Android\GeoBuzz\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-23.4.0_3735e26c5da63ffb8dd5e348e453b9606bd9da7b\classes.dex" />
+    </item>
+    <item
+        jar="V:\Projects\Android\GeoBuzz\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="670df81539ab71918d49b186598b7eff08ef6563">
+        <dex dex="V:\Projects\Android\GeoBuzz\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-vision-9.4.0_1f71e941cdb4d7eef20409f3f4388ae748e7ca6f\classes.dex" />
+    </item>
+    <item
+        jar="V:\Projects\Android\GeoBuzz\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4348dd26d83b56c2058b768222c3271bce911724">
+        <dex dex="V:\Projects\Android\GeoBuzz\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-9.4.0_729a3777c6b9cc3c9ac4c26847ec4f063639709d\classes.dex" />
+    </item>
+    <item
+        jar="V:\Projects\Android\GeoBuzz\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="98e97da89d4df8e2f6eba63498d3d46a587372f2">
+        <dex dex="V:\Projects\Android\GeoBuzz\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-9.4.0_768d0cc2561a1a4d1fbac1e54fb5f009b5c09ecd\classes.dex" />
+    </item>
+    <item
+        jar="V:\Projects\Android\GeoBuzz\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="736d8893fb702f128a153c9d87c9c29724d37872">
+        <dex dex="V:\Projects\Android\GeoBuzz\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appinvite-9.4.0_e5a0a012894492a9869d718ba20fbb9d3bf39399\classes.dex" />
+    </item>
+    <item
+        jar="V:\Projects\Android\GeoBuzz\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="7ff07f72e7abf451304b943f967f6a132d2fde9f">
+        <dex dex="V:\Projects\Android\GeoBuzz\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_bdf7f4f65f2fec60d176e6a4a95a355605c04167\classes.dex" />
+    </item>
+    <item
+        jar="V:\Projects\Android\GeoBuzz\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="e5e8e535d15834e824817bdf5370556f62b4b2a5">
+        <dex dex="V:\Projects\Android\GeoBuzz\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-9.4.0_bb5d9de5b9477223b5cfd208d32e97e83e10c899\classes.dex" />
+    </item>
+    <item
+        jar="V:\Projects\Android\GeoBuzz\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8a36d229011e75f0caef408e1adf0d3fd4d94e02">
+        <dex dex="V:\Projects\Android\GeoBuzz\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-9.4.0_f1312b916b4c0f57afb96620ac2d0984bad06132\classes.dex" />
+    </item>
+    <item
+        jar="V:\Projects\Android\GeoBuzz\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8ce5e7a4a146dddd1d9e66b09c714a6c149916d8">
+        <dex dex="V:\Projects\Android\GeoBuzz\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-drive-9.4.0_157059b8276cb6f18a0218557cff548efd02edfc\classes.dex" />
+    </item>
+    <item
+        jar="V:\Projects\Android\GeoBuzz\app\build\intermediates\exploded-aar\com.facebook.android\facebook-android-sdk\4.14.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="42a3ae86dd3ae2876d3e95c2e6e104ae57a50a65">
+        <dex dex="V:\Projects\Android\GeoBuzz\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.facebook.android-facebook-android-sdk-4.14.1_e7e26dc0c0035b1c36a2ecc5a5cf863b838977de\classes.dex" />
+    </item>
+    <item
+        jar="V:\Projects\Android\GeoBuzz\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="300242bd170c5e849f30397746852ec7470f6839">
+        <dex dex="V:\Projects\Android\GeoBuzz\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_81039b649dc5139d093522e89747628f391d4190\classes.dex" />
+    </item>
+
+</items>
